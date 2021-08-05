@@ -1,14 +1,9 @@
-# Hi there 👋
-I'm Mian Muhammad! a software engineer at [Synavos](https://synavos.com/), let's connect:
+### Hi there 👋
+I am Mian Muhammad, I am a software Engineer with more that 3 yeras of experience. I have expericence of developing web apps in JavaScript.
 
-<a href="https://twitter.com/mian_se">
-  <img align="left" alt="Mian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+- 🔭 I’m currently working on web app development
+- 🌱 I’m currently learning reactjs
+- 📫 How to reach me: mianmuhammad80@gmail.com
+- 😄 Pronouns: He/Him
 
-<a href="https://www.linkedin.com/in/mian-muhammad/">
-  <img align="left" alt="Mian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/mian-muhammad">
-  <img align="left" alt="Mian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=mian-muhammad&show_icons=true&line_height=21&show_icons=true&theme=cobalt&count_private=true)](https://github.com/mian-muhammad/)
