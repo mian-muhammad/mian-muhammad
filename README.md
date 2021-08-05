@@ -6,4 +6,4 @@ I am Mian Muhammad, I am a software Engineer with more that 3 yeras of experienc
 - 📫 How to reach me: mianmuhammad80@gmail.com
 - 😄 Pronouns: He/Him
 
-[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=mian-muhammad&show_icons=true&line_height=21&show_icons=true&theme=cobalt&count_private=truehide=stars)](https://github.com/mian-muhammad/)
+[![Muhammad's github stats](https://github-readme-stats.vercel.app/api?username=mian-muhammad&show_icons=true&line_height=21&show_icons=true&theme=cobalt&count_private=true&hide=stars)](https://github.com/mian-muhammad/)
