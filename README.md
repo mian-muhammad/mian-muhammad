@@ -2,7 +2,7 @@
 I am Mian Muhammad, I am a software Engineer with more that 3 yeras of experience. I have expericence of developing web apps in JavaScript.
 
 - 🔭 I’m currently working on web app development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning TypeScript and NestJS
 - 📫 How to reach me: mianmuhammad80@gmail.com
 - 😄 Pronouns: He/Him
 
