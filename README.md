@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=mian-muhammad&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi there 👋
 I am Mian Muhammad, I am a software Engineer with more that 3 yeras of experience. I have expericence of developing web apps in JavaScript.
 
