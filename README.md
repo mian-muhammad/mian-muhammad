@@ -14,7 +14,6 @@ I am Mian Muhammad, I am a software Engineer with more that 3 yeras of experienc
  
  <br/>
  
- <img align="right" width="300" height="300" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ![GitHub metrics](https://metrics.lecoq.io/mian-muhammad)  
 
 <br/>
